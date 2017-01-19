@@ -12,3 +12,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 |talukko| sdklkadkhakh| kgdshhdakda|
 |:------|-------------|-----------:|
 |adlkadgk|gskjlkshkjhfs|jskljsksflhfs|
+
+[Mastering](https://guides.github.com/features/mastering-markdown/)
