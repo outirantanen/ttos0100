@@ -1,4 +1,5 @@
 # TTOS0100
+[Wikiin](https://github.com/outirantanen/ttos0100/wiki)
 ## Ohjelmiston suunnittelu ja testaus
 ### Testi
 ![](http://www.oph.fi/download/121217_OPH_kielitivoli_hepo.jpg)
@@ -14,4 +15,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 |adlkadgk|gskjlkshkjhfs|jskljsksflhfs|
 
 [Mastering](https://guides.github.com/features/mastering-markdown/)
-[Wikiin](https://github.com/outirantanen/ttos0100/wiki)
+
